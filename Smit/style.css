@@ -1,6 +1,6 @@
 .main-_box{
     position: relative;
-    background: url('./images/slider.jpg') right no-repeat;
+    background: url(slider.jpg) right no-repeat;
     background-size: cover;
     height: 100vh;
     width: 100%;
